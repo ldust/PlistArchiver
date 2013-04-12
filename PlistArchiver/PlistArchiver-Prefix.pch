@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PlistArchiver' target in the 'PlistArchiver' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
